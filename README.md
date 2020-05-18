@@ -174,7 +174,7 @@ Some supplementary materials:
 * [Link to paper](https://arxiv.org/pdf/1812.00971.pdf)
 * [Link to codebase](https://github.com/allenai/savn)
 
-Supplemental materials:
+##### Supplement materials:
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [Brief introduction to Meta Learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 * [Learning to learning brief explanation](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)

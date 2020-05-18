@@ -171,15 +171,15 @@ Some supplementary materials:
 ### Week Seven
 
 #### Learning to Learn How to Learn: Self-Adaptive Visual Navigation using Meta-Learning
-* [Link to paper] (https://arxiv.org/pdf/1812.00971.pdf)
-* [Link to codebase] (https://github.com/allenai/savn)
+* [Link to paper](https://arxiv.org/pdf/1812.00971.pdf)
+* [Link to codebase](https://github.com/allenai/savn)
 
 Supplemental materials:
-* [Deep Reinforcement Learning: Pong from Pixels] (http://karpathy.github.io/2016/05/31/rl/)
-* [Brief introduction to Meta Learning] (https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
-* [Learning to learning brief explanation] (https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+* [Brief introduction to Meta Learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
+* [Learning to learning brief explanation](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks] (https://arxiv.org/pdf/1703.03400.pdf)
-* [Explanatory video by the author of MAML on the next generation of Robot Learning] (https://www.youtube.com/watch?time_continue=711&v=tcFLwgqO7G0&feature=emb_logo)
+* [Explanatory video by the author of MAML on the next generation of Robot Learning](https://www.youtube.com/watch?time_continue=711&v=tcFLwgqO7G0&feature=emb_logo)
 
 
 ## Sponsors
